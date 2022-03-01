@@ -3,10 +3,10 @@ The dataset will be updated when the results of the paper are revealed.
 
 ## 1.Structure of Dataset
 This dataset contains 21207 samples, each consisting of 
-- height map ![in blue](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-- score map ![in black](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-- score map in red and green ![in red and green](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-- and [point cloud file](https://github.com/microsoft/Swin-Transformer)
+- height map ![in blue](https://github.com/NicoHjp/dataset-for-real-terrain/blob/main/dataset%20sample/heightmap/1.jpg)
+- score map ![in black](https://github.com/NicoHjp/dataset-for-real-terrain/blob/main/dataset%20sample/scoremap/1.png)
+- score map in red and green ![in red and green](https://github.com/NicoHjp/dataset-for-real-terrain/blob/main/dataset%20sample/scoremap_rg/1.png)
+- and [point cloud file](https://github.com/NicoHjp/dataset-for-real-terrain/tree/main/dataset%20sample/rawdata)
 
 ## 2. Download
 
